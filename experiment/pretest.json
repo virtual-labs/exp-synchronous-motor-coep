@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A synchronous motor is a useful industrial machine on account of which of the following reasons ? \ I. It improves the power factor of the complete installation \ II. Its speed is constant at all loads, provided mains frequency remains constant III. It can always be adjusted to operate at unity power factor for optimum efficiency and economy.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "I only",
+        "b": "II only",
+        "c": "III only",
+        "d": "I, II and III"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a synchronous motor if the back emf generated in the armature at no load is approximately equal to the applied voltage, then",
+      "answers": {
+        "a": "the torque generated is maximum",
+        "b": "the excitation is said to be zero percent",
+        "c": "the excitation is said to be 100%",
+        "d": "the motor is said to be fully loaded"
       },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A synchronous motor working on leading power factor and not driving any mechanical, is known",
+      "answers": {
+        "a": "synchronous condenser",
+        "b": "synchronous condenser",
+        "c": "synchronous induction motor",
+        "d": "none of the above"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The constant speed of a synchronous motor can be changed to new fixed value by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "changing the applied voltage",
+        "b": "interchanging any two phases",
+        "c": "changing the load",
+        "d": "changing the frequency of supply"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A synchronous machine has its field winding on the stator and armature winding on the rotor. Under steady running conditions, the air-gap field",
+      "answers": {
+        "a": "rotates at synchronous speed with direction of rotation of the rotor",
+        "b": "remains stationary with respect to stator",
+        "c": "remains stationary with respect to rotor",
+        "d": "rotates at synchronous speed with respect to stator"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

@@ -2,36 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A 3-phase synchronous generator is operating at a constant load while the excitation is adjusted to give unity pf current. If the excitation is now increased, the pf will",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "become leading",
+        "b": "become lagging",
+        "c": "remain unity",
+        "d": "become zero"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A synchronous motor with negligible armature resistance runs at a load angle of 20&deg; at rated frequency. If supply frequency is increased by 10%, keeping other parameters constant, the new load angle will be",
+      "answers": {
+        "a": "16&deg;",
+        "b": "18&deg;",
+        "c": "20&deg;",
+        "d": "22&deg;"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The constant speed of a synchronous motor can be changed to new fixed value by",
+      "answers": {
+        "a": "changing the frequency of supply",
+        "b": "changing the applied voltage",
+        "c": "changing the load",
+        "d": "interchanging any two phases"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A synchronous motor working on leading power factor and not driving any mechanical, is known",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "synchronous induction motor",
+        "b": "spinning motor",
+        "c": "synchronous condenser",
+        "d": "none of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a synchronous motor if the back emf generated in the armature at no load is approximately equal to the applied voltage, then",
+      "answers": {
+        "a": "the excitation is said to be zero percent",
+        "b": "the motor is said to be fully loaded",
+        "c": "the excitation is said to be 100%",
+        "d": "the torque generated is maximum"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
