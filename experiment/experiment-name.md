@@ -1,1 +1,1 @@
-## Experiment name
+### V and Inverted V curves of Synchronous Motor
